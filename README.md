@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyno Configs</h1>
-<h3 align="center">I am a professional coder since 2022</h3>
+<h3 align="center">I am a professional retarded!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynoforwindows&label=Profile%20views&color=0e75b6&style=flat" alt="lynoforwindows" /> </p>
 
