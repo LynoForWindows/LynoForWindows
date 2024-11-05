@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LynoForWindows](https://github.com/LynoForWindows)
 
-- 💬 Don't Ask me **https://nohello.com**
+- 💬 Don't Ask me **https://nohello.net/en**
 
 - 📫 How to reach me **robloxmoonfans@gmail.com**
 
